@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @27042007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m WILLIAM
+- 👀 I’m interested iN  jogo
+- 🌱 I’m currently learning sim
+- 💞️ I’m looking to collaborate on jogo
+- 📫 How to reach me  pelo emial
 
 <!---
 27042007/27042007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
